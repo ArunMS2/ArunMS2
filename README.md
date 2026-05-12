@@ -39,7 +39,6 @@
 - Socket.io
 - Postman / Thunder Client
 - GitHub Actions
-- Bicep (IaC)
 
 ---
 
@@ -90,7 +89,6 @@
 - Advanced AI Agents
 - Azure AI Services
 - Scalable Backend Systems
-- Liferay Development
 
 ---
 
