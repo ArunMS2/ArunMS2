@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-AI Engineer at **WNS-Vuram (Part of Capgemini)**, building production-ready Agentic AI systems and enterprise automation platforms. My work sits at the intersection of applied AI and solid software engineering — systems that are reliable, secure, and useful in real workflows.
+Associate Technical Consultant at **WNS-Vuram (Part of Capgemini)**, building production-ready Agentic AI systems and enterprise automation platforms. My work sits at the intersection of applied AI and solid software engineering — systems that are reliable, secure, and useful in real workflows.
 
 Over the past year I've worked across two domains: enterprise platform engineering (Power Platform, Copilot Studio, Dataverse) and Agentic AI development (LangChain, LangGraph, FastAPI, Azure OpenAI). I learn best by building real things, not just tutorials.
 
